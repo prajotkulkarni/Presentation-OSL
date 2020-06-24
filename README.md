@@ -1,2 +1,2 @@
 # Presentation-OSL
-This is a presentation for OSL
+A presentation related to OSL is attached in this repository.
